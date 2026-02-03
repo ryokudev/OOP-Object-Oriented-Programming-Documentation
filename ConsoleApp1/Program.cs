@@ -1,6 +1,6 @@
 ﻿using System;
 
-public abstract class Works {
+public abstract class Works { // Abstraction Class
     public abstract void Papers();
     public abstract void Cleaning();
     public abstract void Washing();
